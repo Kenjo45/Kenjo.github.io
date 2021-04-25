@@ -1,0 +1,20 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: rgb(0, 153, 255);
+}
+#project {
+  background-color: rgb(0, 153, 255);
+}
+#about {
+  background-color: #f3f4f5;
+}
+#contact {
+  background-color: #f3f4f5;
+}
+footer {
+  background-color: rgb(0, 153, 255);
+  color: white;
+}
+section {
+  padding-top: 8rem;
+}
